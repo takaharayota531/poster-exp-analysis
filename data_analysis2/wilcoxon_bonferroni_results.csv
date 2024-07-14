@@ -1,0 +1,11 @@
+Comparison,stat,p_value,p_value_bonferroni,significant
+No Sound vs Discrete Exponential,10.0,0.001312255859375,0.01312255859375,True
+No Sound vs Continuous Exponential,26.0,0.05328186335798626,0.5328186335798626,False
+No Sound vs Continuous Linear,34.0,0.1387168117393158,1.0,False
+No Sound vs Discrete Linear,54.0,0.49542236328125,1.0,False
+Discrete Exponential vs Continuous Exponential,36.5,0.116668701171875,1.0,False
+Discrete Exponential vs Continuous Linear,24.0,0.0405225050250302,0.405225050250302,False
+Discrete Exponential vs Discrete Linear,21.0,0.026603454938603346,0.26603454938603344,False
+Continuous Exponential vs Continuous Linear,43.0,0.5498406172623186,1.0,False
+Continuous Exponential vs Discrete Linear,41.5,0.2921145531191385,1.0,False
+Continuous Linear vs Discrete Linear,55.0,0.7754089542365392,1.0,False
