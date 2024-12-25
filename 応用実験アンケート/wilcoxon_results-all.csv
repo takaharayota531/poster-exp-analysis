@@ -1,0 +1,16 @@
+Experiment,Metric,W-Statistic,p-Value,Effect Size (r),Note
+実験1,Dizziness,4.5,0.8539232992870668,1.5,
+実験1,Target Difficulty,0.0,0.011109224550098225,0.0,
+実験1,Object Distinction Difficulty,0.0,0.011209733383895203,0.0,
+実験1,Mental Strain,6.0,0.31731050786291415,2.0,
+実験1,Fun Experience,2.5,0.08356564983357526,0.8333333333333334,
+実験2,Dizziness,,,,All differences are zero
+実験2,Target Difficulty,9.0,0.20252658565594883,3.0,
+実験2,Object Distinction Difficulty,2.5,0.027198399577616782,0.8333333333333334,
+実験2,Mental Strain,16.0,0.7728299926844475,5.333333333333333,
+実験2,Fun Experience,10.5,0.5270892568655381,3.5,
+実験3,Dizziness,0.0,0.17971249487899976,0.0,
+実験3,Target Difficulty,14.5,0.6148098802339098,4.833333333333333,
+実験3,Object Distinction Difficulty,8.0,0.3008027423277617,2.6666666666666665,
+実験3,Mental Strain,12.0,0.7316005889599013,4.0,
+実験3,Fun Experience,4.0,0.7054569861112734,1.3333333333333333,
