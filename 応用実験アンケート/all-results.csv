@@ -1,0 +1,16 @@
+Experiment,Metric,Test,Test statistic,p-value,Interpretation
+実験1,Dizziness,Wilcoxon signed-rank test,6.0,0.6802795473344503,Not significant
+実験1,Target Difficulty,Paired t-test,-5.469141104851726,0.00027338653912974354,Significant
+実験1,Object Distinction Difficulty,Wilcoxon signed-rank test,0.0,0.0047256977341214425,Significant
+実験1,Mental Strain,Wilcoxon signed-rank test,6.0,0.31731050786291415,Not significant
+実験1,Fun Experience,Paired t-test,2.2831482556870477,0.045541284105462536,Significant
+実験2,Dizziness,Wilcoxon signed-rank test,,,Error: zero_method 'wilcox' and 'pratt' do not work if x - y is zero for all elements.
+実験2,Target Difficulty,Paired t-test,-1.9148542155126762,0.08452457695322681,Not significant
+実験2,Object Distinction Difficulty,Wilcoxon signed-rank test,2.5,0.010069745065626336,Significant
+実験2,Mental Strain,Paired t-test,-0.45407660918649984,0.6594696605114992,Not significant
+実験2,Fun Experience,Wilcoxon signed-rank test,12.0,0.36571229628151325,Not significant
+実験3,Dizziness,Wilcoxon signed-rank test,0.0,0.17971249487899976,Not significant
+実験3,Target Difficulty,Paired t-test,-1.20761472884912,0.25498114530639754,Not significant
+実験3,Object Distinction Difficulty,Wilcoxon signed-rank test,9.5,0.22166801217700272,Not significant
+実験3,Mental Strain,Paired t-test,-0.1662056238286334,0.8713075424240607,Not significant
+実験3,Fun Experience,Paired t-test,0.8964214570007951,0.39109677094189643,Not significant
